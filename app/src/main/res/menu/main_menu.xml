@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="월별 보기"
+        android:id="@+id/Month" />
+    <item android:title="주별 보기"
+        android:id="@+id/Week" />
+    <item android:title="일별 보기"
+        android:id="@+id/Day" />
+    <item android:title="일정 추가"
+        android:id="@+id/Add_date" />
+</menu>
